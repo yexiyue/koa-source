@@ -1,0 +1,18 @@
+{
+  "name": "koa源码",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "esno watch index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/koa": "^2.13.5",
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.19"
+  }
+}
